@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vilkyser-torres-a41b49192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vilkyser-torres-a41b49192" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/vilkyser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vilkyser" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8635757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vilkyser" height="30" width="40" /></a>
 <a href="https://fb.com/vilkyser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vilkyser" height="30" width="40" /></a>
 <a href="https://instagram.com/vilkyser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vilkyser" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/vilkyplays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vilkyplays" height="30" width="40" /></a>
