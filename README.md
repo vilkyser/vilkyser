@@ -11,7 +11,7 @@
 <a href="https://stackoverflow.com/users/8635757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vilkyser" height="30" width="40" /></a>
 <a href="https://fb.com/vilkyser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vilkyser" height="30" width="40" /></a>
 <a href="https://instagram.com/vilkyser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vilkyser" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vilkyplays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vilkyplays" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@vilkyplays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vilkyplays" height="30" width="40" /></a>
 <a href="https://discord.gg/vilkybot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vilkybot" height="30" width="40" /></a>
 </p>
 
